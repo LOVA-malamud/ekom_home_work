@@ -15,6 +15,6 @@ def get_statistics(numbers):
 
 
 
-numbers = [4, 8, 2, 10, 6]
-result = get_statistics(numbers)
+number = [4, 8, 2, 10, 6]
+result = get_statistics(number)
 print(result)

@@ -1,3 +1,4 @@
+def business_card
 name_input = input('what is your name ?')
 email_input = input('what is your email ? ')
 phone_num_input = int(input('what is your phone number ? '))
